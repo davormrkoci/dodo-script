@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSC_BASETYPES_H_)
 #define DSC_BASETYPES_H_
 

@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_LIST_H)
 #define DSR_LIST_H
 

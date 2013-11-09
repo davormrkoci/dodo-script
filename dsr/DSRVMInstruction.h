@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_VMINSTRUCTION_H_)
 #define DSR_VMINSTRUCTION_H_
 

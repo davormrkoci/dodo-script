@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_MEMORY_H_)
 #define DSR_MEMORY_H_
 

@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_FUNCTION_H_)
 #define DSR_FUNCTION_H_
 

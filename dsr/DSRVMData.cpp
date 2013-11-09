@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 
 #include "DSRVMData.h"
 

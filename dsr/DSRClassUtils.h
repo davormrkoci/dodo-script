@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_CLASSUTILS_H_)
 #define DSR_CLASSUTILS_H_
 

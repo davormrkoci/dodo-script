@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_SCRIPTMANAGER_H_)
 #define DSR_SCRIPTMANAGER_H_
 

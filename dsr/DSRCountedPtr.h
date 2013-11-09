@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_COUNTEDPTR_H_)
 #define DSR_COUNTEDPTR_H_
 

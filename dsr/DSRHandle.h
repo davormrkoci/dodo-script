@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_HANDLE_H_)
 #define DSR_HANDLE_H_
 

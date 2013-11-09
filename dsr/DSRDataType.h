@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_DATATYPE_H_)
 #define DSR_DATATYPE_H_
 

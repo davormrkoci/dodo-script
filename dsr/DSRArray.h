@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #if !defined(DSR_ARRAY_H)
 #define DSR_ARRAY_H
 

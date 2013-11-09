@@ -1,4 +1,4 @@
-// (c) 2004 DodoSoft Inc.
+
 #include "DSRMemory.h"
 #include <malloc.h>
 #include "DSRScriptManager.h"
